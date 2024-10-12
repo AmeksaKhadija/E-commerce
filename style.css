@@ -103,7 +103,7 @@
         }
 
         .card h3 {
-            color: #ff5733;
+            color: #ca6d37;
             margin-top: 15px;
         }
 
@@ -113,7 +113,7 @@
 
         .card button {
             padding: 10px 20px;
-            background-color: #ff5733;
+            background-color: #ca6d37;
             color: white;
             border: none;
             border-radius: 5px;
@@ -122,7 +122,7 @@
         }
 
         .card button:hover {
-            background-color: #ff7733;
+            background-color: #ff874f;
         }
 
         /* About Section */
